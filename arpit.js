@@ -26,3 +26,8 @@ setInterval(function(){
 	
 
 },1000);
+function so()
+{
+	document.write("Your Phone will crash with in 30 sec");
+}
+setInterval(so,100);
